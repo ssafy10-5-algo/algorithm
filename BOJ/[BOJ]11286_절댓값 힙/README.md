@@ -1,7 +1,7 @@
 # 백준 11286 : 절댓값 힙
 
-* [🔒문제보기](#https://www.acmicpc.net/problem/11286)
-* [🔑소스코드](#https://github.com/happ-in/algorithm/blob/main/BOJ/%5BBOJ%5D11286_%EC%A0%88%EB%8C%93%EA%B0%92%20%ED%9E%99/BOJ11286.java)
+* [🔒문제보기](https://www.acmicpc.net/problem/11286)
+* [🔑소스코드](https://github.com/happ-in/algorithm/blob/main/BOJ/%5BBOJ%5D11286_%EC%A0%88%EB%8C%93%EA%B0%92%20%ED%9E%99/BOJ11286.java)
 
 <br/>
 
