@@ -1,0 +1,64 @@
+# 백준 1138: 한 줄로 서기
+* [🔒 문제보기](https://www.acmicpc.net/problem/1138)
+* [🔑 소스코드](https://github.com/happ-in/algorithm/blob/wednesday/BOJ/%5BBOJ%5D1138_%ED%95%9C%20%EC%A4%84%EB%A1%9C%20%EC%84%9C%EA%B8%B0/BOJ1138.java)
+
+## sudo✍
+입력에 주어진 배열은 i번째 사람 앞에 키가 i보다 큰 사람이 arr[i]명 있다.  
+그림을 그려보며 알고리즘을 생각해봤다.
+
+> [입력]  
+> 6  
+> 1 1 1 0 1 0
+
+||1|2|3|4|5|6|
+|-|-|-|-|-|-|-|
+0|INF|INF|INF|INF|INF|INF|
+1|INF|1|INF|INF|INF|INF|
+2|INF|1|2|INF|INF|INF|
+3|INF|1|2|3|INF|INF|
+4|4|1|2|3|INF|INF|
+5|4|1|2|3|INF|5|
+6|4|1|2|3|6|5|
+
+조건을 보니 N은 최대 10명이고 2초나 주는 문제였다.  
+시간과 조건을 보고 재귀나 그런걸 쓰는 문제 같다고 생각이 들었지만, 단순하게 각 i번째마다 loop를 돌려서 키 큰 사람을 카운팅하고 자리에 넣으면 되겠다! 라는 생각을 했다.
+
+<br/>
+
+1. 사람들이 줄을 서는 배열을 선언하고 빈 공간을 무한대로 둔다. (INF는 모든 사람보다 큰 값)
+2. 나와 각 자리의 사람들 키를 비교하고 카운팅한다.
+3. a[i]의 값과 카운팅 값이 일치하는 곳에 사람을 넣어준다.
+4. 2, 3번을 반복한다.
+
+<br/>
+
+## algorithm💻
+1. 사람들이 줄을 서는 배열을 선언하고 빈 공간을 무한대로 둔다.
+    ```java
+    int[] line = new int[N];
+    Arrays.fill(line, INF);
+    ```
+
+2. 나와 각 자리의 사람들 키를 비교하고 카운팅한다.  
+    ```java
+    for (int i = 0; i < N; i++) {
+        for (int j = 0; j < N; j++) {
+            ...
+            if (i < line[j]) cnt++;    
+            ...
+        }
+    }
+    ```
+
+3. a[i]의 값과 카운팅 값이 일치하는 곳에 사람을 넣어준다.
+    ```java
+    if (arr[i] == cnt && line[j] == INF){
+        line[j] = i+1;
+        break;
+    }
+    ```
+4. 반복
+5. 출력
+    ```java
+    for(int l : line) System.out.print(l + " ");
+    ```
