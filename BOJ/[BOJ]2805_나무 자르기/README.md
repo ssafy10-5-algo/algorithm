@@ -1,9 +1,4 @@
-# 백준 2805: 나무 자르기 🌲
-
-* [🔒 문제보기](https://www.acmicpc.net/problem/2805)
-* [🔑 소스코드](https://github.com/happ-in/algorithm/blob/saturday/BOJ/%5BBOJ%5D2805_%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0/%5BBOJ%5D2805.java)
-
-<br/>
+# [백준 2805: 나무 자르기 🌲](https://www.acmicpc.net/problem/2805)  
 
 ## 내가 생각한 알고리즘 💭
 1. **첫 시도 실패 😰**
