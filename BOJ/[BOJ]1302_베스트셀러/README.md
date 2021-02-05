@@ -1,4 +1,4 @@
-# [백준 1302: 베스트셀러](https://www.acmicpc.net/problem/1302)
+# [백준 1302: 베스트셀러 📚](https://www.acmicpc.net/problem/1302)
 
 ## 📌 내가 생각한 알고리즘
 1. HashMap으로 책 이름과 팔린 갯수를 받아온다.
