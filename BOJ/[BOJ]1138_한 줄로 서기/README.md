@@ -1,6 +1,4 @@
-# 백준 1138: 한 줄로 서기
-* [🔒 문제보기](https://www.acmicpc.net/problem/1138)
-* [🔑 소스코드](https://github.com/happ-in/algorithm/blob/main/BOJ/%5BBOJ%5D1138_%ED%95%9C%20%EC%A4%84%EB%A1%9C%20%EC%84%9C%EA%B8%B0/BOJ1138.java)
+# [백준 1138: 한 줄로 서기 🚶‍♀🚶‍♂](https://www.acmicpc.net/problem/1138)
 
 ## sudo✍
 입력에 주어진 배열은 i번째 사람 앞에 키가 i보다 큰 사람이 arr[i]명 있다.  
