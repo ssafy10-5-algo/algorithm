@@ -1,9 +1,4 @@
-# 백준 2156번 : 포도주 시식
-
-* [🔒문제보기](https://www.acmicpc.net/problem/2156)
-* [🔑소스코드](https://github.com/happ-in/algorithm/blob/main/BOJ/%5BBOJ%5D2156_%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D/%5BBOJ%5D2156_%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D.java)
-
-<br/>
+# [백준 2156번 : 포도주 시식 🍇](https://www.acmicpc.net/problem/2156)
 
 ## 시작은 노가다였다 (안 읽어도 되는 부분) 😬
 1. 맨 처음에는 무작정 나올 수 있는 경우를 다 적어봤다.  

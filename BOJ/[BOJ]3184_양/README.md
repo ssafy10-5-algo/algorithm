@@ -1,8 +1,4 @@
-# 백준 3184: 양🐑
-* [🔒문제보기](https://www.acmicpc.net/problem/3184)
-* [🔑소스코드](https://github.com/happ-in/algorithm/blob/sunday/BOJ/%5BBOJ%5D3184_%EC%96%91/%5BBOJ%5D3184.java)
-
-<br/>
+# [백준 3184: 양🐑](https://www.acmicpc.net/problem/3184)  
 
 ## 내가 생각한 알고리즘 💭
 1. #가 아닌 곳은 모두 빈 땅이다!

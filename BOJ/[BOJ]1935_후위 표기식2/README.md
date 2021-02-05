@@ -1,9 +1,5 @@
-# 백준 1935: 후위표기식2
+# [백준 1935: 후위표기식2➕](https://www.acmicpc.net/problem/1935)  
 
-* [❓ 문제보기](https://www.acmicpc.net/problem/1935)
-* [❗ 소스코드](https://github.com/happ-in/algorithm/blob/main/BOJ/%5BBOJ%5D1935_%ED%9B%84%EC%9C%84%20%ED%91%9C%EA%B8%B0%EC%8B%9D2/BOj1935.java)
-
-<br/>
 
 ## 🤔 내가 생각한 알고리즘
 1. 후위표현식을 받아와 앞에서 순차적으로 탐색한다.

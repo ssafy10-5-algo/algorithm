@@ -1,7 +1,4 @@
-# 백준 14501: 퇴사
-
-* [❓ 문제보기](https://www.acmicpc.net/problem/14501)  
-* [💡 소스코드](https://github.com/happ-in/algorithm/blob/main/BOJ/%5BBOJ%5D14501_%ED%87%B4%EC%82%AC/BOJ14501.java)
+# [백준 14501: 퇴사🖐](https://www.acmicpc.net/problem/14501)  
 
 ## 📌 내가 생각한 알고리즘
 **[입력]**
