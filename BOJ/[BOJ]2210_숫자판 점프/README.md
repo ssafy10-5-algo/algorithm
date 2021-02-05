@@ -1,8 +1,4 @@
-# 백준 2210: 숫자판 점프🔢
-* [🔒문제보기](https://www.acmicpc.net/problem/2210)
-* [🔑소스코드](https://github.com/happ-in/algorithm/blob/monday/BOJ/%5BBOJ%5D2210_%EC%88%AB%EC%9E%90%ED%8C%90%20%EC%A0%90%ED%94%84/%5BBOJ%5D2210.java)
-
-<br/>
+# [백준 2210: 숫자판 점프🔢](https://www.acmicpc.net/problem/2210)  
 
 ## sudo✍
 음 사실 이 문제 보자마자 dfs로 풀어야겠다 생각이 들어서 바로 코딩을 했다.
