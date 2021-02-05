@@ -1,9 +1,4 @@
-# 백준 11286 : 절댓값 힙
-
-* [🔒문제보기](https://www.acmicpc.net/problem/11286)
-* [🔑소스코드](https://github.com/happ-in/algorithm/blob/main/BOJ/%5BBOJ%5D11286_%EC%A0%88%EB%8C%93%EA%B0%92%20%ED%9E%99/BOJ11286.java)
-
-<br/>
+# [백준 11286 : 절댓값 힙](https://www.acmicpc.net/problem/11286)
 
 ## 내가 생각한 알고리즘 🤔 
 1. 절댓 값과 실제 값을 함께 저장한다.
