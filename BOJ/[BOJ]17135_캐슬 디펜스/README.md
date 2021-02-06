@@ -1,8 +1,5 @@
-# 백준 17135: 캐슬 디펜스🏰
-* [🔒 문제보기](https://www.acmicpc.net/problem/17135)
-* [🔑 소스코드](https://github.com/happ-in/algorithm/blob/sunday/BOJ/%5BBOJ%5D17135_%EC%BA%90%EC%8A%AC%20%EB%94%94%ED%8E%9C%EC%8A%A4/BOJ17135.java)
+# [백준 17135: 캐슬 디펜스🏰](https://www.acmicpc.net/problem/17135)
 
-<br/>
 
 ## sudo ✍
 이 문제 너무 화난다. 3번정도 갈아엎은 거 같다 ^^^
