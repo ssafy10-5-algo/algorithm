@@ -1,8 +1,4 @@
-# 백준 1914: 하노이 탑🗼
-* [🔒 문제보기](https://www.acmicpc.net/problem/1914)
-* [🔑소스보기](https://github.com/happ-in/algorithm/tree/BOJ1914/BOJ)
-
-<br/>
+# [백준 1914: 하노이 탑🗼](https://www.acmicpc.net/problem/1914)
 
 ## sudo✍
 2개, 3개일 때 직접 그려봤다.
