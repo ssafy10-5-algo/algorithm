@@ -1,8 +1,4 @@
-# 백준 2636: 치즈 🧀
-* [🔒문제보기](https://www.acmicpc.net/problem/2636)
-* [🔑소스코드](https://github.com/happ-in/algorithm/blob/saturday/BOJ/%5BBOJ%5D2636_%EC%B9%98%EC%A6%88/BOJ2636.java)
-
-<br/>
+# [백준 2636: 치즈 🧀](https://www.acmicpc.net/problem/2636)  
 
 ## sudo✍
 사실 이 문제는 한 달전 쯤에 풀었던 문제다. 당시에 굉장히 끙끙 앓면서 풀었던 걸로 기억하는데 아무튼 한 번 풀어본 문제라 그런지 쉽게 풀었다. 
