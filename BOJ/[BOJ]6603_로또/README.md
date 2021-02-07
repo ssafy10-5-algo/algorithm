@@ -11,7 +11,7 @@
 <br/>
 
 ## algorithm 💻
-순열의 기본 문제 구조로 알고리즘은 이게 다 입니다...
+조합의 기본 문제 구조로 알고리즘은 이게 다 입니다...
 ```java
 for (int i = index; i < k ; i++) {
     lotto[cnt] = S[i];              
