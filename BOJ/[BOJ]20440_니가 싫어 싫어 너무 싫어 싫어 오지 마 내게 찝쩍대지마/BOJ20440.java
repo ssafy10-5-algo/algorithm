@@ -13,9 +13,8 @@ public class BOJ20440 {
             list.add(new int[]{in, out});
         }
 
-        // 입력받은 모기의 입장, 퇴장시간을 정렬
-        // 1. 입장이 빠른 순  2. 퇴장이 빠른 순
-        Collections.sort(list, (o1, o2) -> o1[0] == o2[0] ? o2[1] - o1[1] : o1[0] - o2[0]);
+        // 입력받은 모기의 입장, 퇴장시간을 정렬을 입장이 빠른 순으로 정렬한다.
+        Collections.sort(list, (o1, o2) -> o1[0] - o2[0]);
 
         // 퇴장이 빠른 순서대로 정렬하는 큐
         Queue<int[]> q = new PriorityQueue<>((o1, o2) -> o1[1] - o2[1]);
